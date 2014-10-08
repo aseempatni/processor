@@ -1,0 +1,22 @@
+List of experiments (07-08-2014 to 14-08-2014)
+
+1. Design a 1-bit full adder with a, b and Cin as inputs and sum and Cout as 
+     outputs. 
+2. Realize a 32-bit ripple-carry adder using the above as the building block.
+
+
+Reference: Patterson and Hennessy, Computer Organization and Design.
+
+Do the following steps for each of the above experiments:
+
+   (i) A Verilog behavioral description;
+  (ii) A test bench generator module and test the circuit;
+ (iii) A Verilog structural description;
+  (iv) Test it using the same module as in (ii);
+   (v) Synthesize the behavioural code of (i) using the FPGA kit;
+  (vi) Measure some performance metircs like area, delay, number of LUTs;
+ (vii) Synthesize the structural description of (iii) using the FPGA kit;
+(viii) Measure the performance using the same metrics as in (vi) and compare
+        the performance of the two synthesized units.
+
+

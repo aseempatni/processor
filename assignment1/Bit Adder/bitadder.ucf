@@ -1,0 +1,5 @@
+net bit1 loc = "p191";
+net bit2 loc = "p190";
+net cin loc = "p196";
+net sum loc = "p139";
+net cout loc = "p140";
