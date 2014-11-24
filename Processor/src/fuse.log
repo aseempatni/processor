@@ -1,0 +1,106 @@
+Determining compilation order of HDL files
+Analyzing Verilog file generate_propogate.v
+Analyzing Verilog file mux2to1.v
+Analyzing Verilog file carrylookahead4bit.v
+Analyzing Verilog file mux2to1bus.v
+Analyzing Verilog file internibblecarrylookahead16bit.v
+Analyzing Verilog file xorbus.v
+Analyzing Verilog file mux4to1bus.v
+Analyzing Verilog file luunit.v
+Analyzing Verilog file adder.v
+Analyzing Verilog file su.v
+Analyzing Verilog file lu.v
+Analyzing Verilog file au.v
+Analyzing Verilog file signext.v
+Analyzing Verilog file shiftleft2.v
+Analyzing Verilog file registers.v
+Analyzing Verilog file mux2to14bit.v
+Analyzing Verilog file memory.v
+Analyzing Verilog file insBank.v
+Analyzing Verilog file alu.v
+Analyzing Verilog file Rtypeinst.v
+Analyzing Verilog file controlunit.v
+Analyzing Verilog file Processor.v
+Analyzing Verilog file testprocessor.v
+Analyzing Verilog file C:/Xilinx/10.1/ISE/verilog/src/glbl.v
+Saving Verilog parse-tree work.generate_propogate into
+c:/aseemashu/rtypeinstruction/processor/isim/work/generate_propogate.sdb
+Saving Verilog parse-tree work.mux2to1 into
+c:/aseemashu/rtypeinstruction/processor/isim/work/mux2to1.sdb
+Saving Verilog parse-tree work.carrylookahead4bit into
+c:/aseemashu/rtypeinstruction/processor/isim/work/carrylookahead4bit.sdb
+Saving Verilog parse-tree work.mux2to1bus into
+c:/aseemashu/rtypeinstruction/processor/isim/work/mux2to1bus.sdb
+Saving Verilog parse-tree work.internibblecarrylookahead16bit into
+c:/aseemashu/rtypeinstruction/processor/isim/work/internibblecarrylookahead16bit
+.sdb
+Saving Verilog parse-tree work.xorbus into
+c:/aseemashu/rtypeinstruction/processor/isim/work/xorbus.sdb
+Saving Verilog parse-tree work.mux4to1bus into
+c:/aseemashu/rtypeinstruction/processor/isim/work/mux4to1bus.sdb
+Saving Verilog parse-tree work.luunit into
+c:/aseemashu/rtypeinstruction/processor/isim/work/luunit.sdb
+Saving Verilog parse-tree work.adder into
+c:/aseemashu/rtypeinstruction/processor/isim/work/adder.sdb
+Saving Verilog parse-tree work.su into
+c:/aseemashu/rtypeinstruction/processor/isim/work/su.sdb
+Saving Verilog parse-tree work.lu into
+c:/aseemashu/rtypeinstruction/processor/isim/work/lu.sdb
+Saving Verilog parse-tree work.au into
+c:/aseemashu/rtypeinstruction/processor/isim/work/au.sdb
+Saving Verilog parse-tree work.signext into
+c:/aseemashu/rtypeinstruction/processor/isim/work/signext.sdb
+Saving Verilog parse-tree work.shiftleft2 into
+c:/aseemashu/rtypeinstruction/processor/isim/work/shiftleft2.sdb
+Saving Verilog parse-tree work.registers into
+c:/aseemashu/rtypeinstruction/processor/isim/work/registers.sdb
+Saving Verilog parse-tree work.mux2to14bit into
+c:/aseemashu/rtypeinstruction/processor/isim/work/mux2to14bit.sdb
+Saving Verilog parse-tree work.memory into
+c:/aseemashu/rtypeinstruction/processor/isim/work/memory.sdb
+Saving Verilog parse-tree work.insBank into
+c:/aseemashu/rtypeinstruction/processor/isim/work/ins@bank.sdb
+Saving Verilog parse-tree work.alu into
+c:/aseemashu/rtypeinstruction/processor/isim/work/alu.sdb
+Saving Verilog parse-tree work.Rtypeinst into
+c:/aseemashu/rtypeinstruction/processor/isim/work/@rtypeinst.sdb
+Saving Verilog parse-tree work.controlunit into
+c:/aseemashu/rtypeinstruction/processor/isim/work/controlunit.sdb
+Saving Verilog parse-tree work.Processor into
+c:/aseemashu/rtypeinstruction/processor/isim/work/@processor.sdb
+Saving Verilog parse-tree work.testprocessor into
+c:/aseemashu/rtypeinstruction/processor/isim/work/testprocessor.sdb
+Saving Verilog parse-tree work.glbl into
+c:/aseemashu/rtypeinstruction/processor/isim/work/glbl.sdb
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 53816 Kb
+Fuse CPU Usage: 609 ms
+Compiling module glbl
+Compiling module insBank
+Compiling module mux2to1
+Compiling module mux2to1bus
+Compiling module mux2to14bit
+Compiling module registers
+Compiling module signext
+Compiling module luunit
+Compiling module lu
+Compiling module mux4to1bus
+Compiling module xorbus
+Compiling module generate_propogate
+Compiling module carrylookahead4bit
+Compiling module internibblecarrylookahead16bit
+Compiling module adder
+Compiling module au
+Compiling module su
+Compiling module alu
+Compiling module memory
+Compiling module shiftleft2
+Compiling module Rtypeinst
+Compiling module controlunit
+Compiling module Processor
+Compiling module testprocessor
+Compiled 24 Verilog Units
+Built simulation executable testprocessor_isim_beh.exe
+Fuse Memory Usage: 56124 Kb
+Fuse CPU Usage: 765 ms

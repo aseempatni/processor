@@ -1,0 +1,19 @@
+net ans[0]	loc = "p139";
+net ans[1]	loc = "p140";
+net ans[2]	loc = "p137";
+net ans[3]	loc = "p138";
+net ans[4]	loc = "p133";
+net ans[5]	loc = "p135";
+net ans[6]	loc = "p131";
+net ans[7]	loc = "p132";
+net ans[8]	loc = "p149";
+net ans[9]	loc = "p150";
+net ans[10]	loc = "p147";
+net ans[11]	loc = "p148";
+net ans[12]	loc = "p144";
+net ans[13]	loc = "p146";
+net ans[14]	loc = "p141";
+net ans[15]	loc = "p143";
+
+net clk		loc = "p76";
+net reset	loc = "p191";
